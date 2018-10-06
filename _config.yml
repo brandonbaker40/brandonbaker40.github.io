@@ -1,6 +1,6 @@
 # main text of home
 name: Brandon Baker
-bio: Business & Web Development
+bio: Entrepreneurship, Growth Hacking, Web Development
 
 # twitter summary info
 description: A portfolio site for Brandon Baker
@@ -8,13 +8,13 @@ description: A portfolio site for Brandon Baker
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/golf.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://goo.gl/Ao1g9E
+resume-url: https://goo.gl/YpkhY7
 
 #url: https://koppl.in/indigo
 #your url: http://www.brbaker.com
@@ -35,8 +35,8 @@ disqus:
   categories: [ ] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-twitter: Brandon_R_Baker
+# facebook: myfacebook
+# twitter: Brandon_R_Baker
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -84,7 +84,7 @@ about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
