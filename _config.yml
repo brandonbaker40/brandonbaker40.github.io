@@ -16,8 +16,9 @@ resume: true
 resume-external: true
 resume-url: https://goo.gl/YpkhY7
 
-url: https://koppl.in/indigo
-your url: http://www.brbaker.com
+#url: https://koppl.in/indigo
+#your url: http://www.brbaker.com
+url: http://www.brbaker.com
 
 permalink: /:title/
 
