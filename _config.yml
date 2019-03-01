@@ -1,6 +1,6 @@
 # main text of home
 name: Brandon Baker
-bio: Entrepreneurship, Growth Hacking, Web Development
+bio: Entrepreneurship, Growth Hacking, Software Development
 
 # twitter summary info
 description: A portfolio site for Brandon Baker
@@ -14,7 +14,7 @@ picture: assets/images/golf.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://goo.gl/YpkhY7
+resume-url: https://goo.gl/ZDyR1x
 
 #url: https://koppl.in/indigo
 #your url: http://www.brbaker.com
