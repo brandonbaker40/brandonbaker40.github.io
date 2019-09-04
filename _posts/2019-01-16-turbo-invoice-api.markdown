@@ -18,7 +18,7 @@ A summary of this post originally appeared on [Medium](https://medium.com/@brand
 
 ## Summary
 
-Turbo Invoice API is a modern invoicing API for home health staffing agencies. It provides the backend framework for agency clinicians to submit information regarding patient visits. An Angular client is in development.
+Turbo Invoice API is a modern invoicing API for home health staffing agencies. It provides the backend framework for agency clinicians to submit information regarding patient visits.
 
 ### Observations, Problem, and Opportunity:
 
@@ -49,5 +49,3 @@ The second goal of the project was to make it a worthy investment of a developer
 The third goal is to provide the home health staffing agencies with a tool that takes minimal time to onboard. I want agencies who use this software to immediately find it intuitive and clean. 
 
 The final goal is to provide home health staffing agencies with an open source alternative for invoicing. Agencies who purchased bespoke invoicing software a decade ago and depend on legacy developers to maintain it and have little room in their budgets for a cost prohibitive alternative. 
-
-The Turbo Invoice API paired with an Angular or React front end would be a great alternative for these home health staffing agencies.
