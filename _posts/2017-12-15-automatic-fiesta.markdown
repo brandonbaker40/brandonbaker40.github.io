@@ -1,21 +1,17 @@
 ---
-title: Automatic Fiesta
+title: Home Health Scheduler
 layout: post
-date: '2019-01-03 14:27:22'
-headerImage: true
+date: '2019-09-03 14:27:22'
+headerImage: false
 projects: true
-description: Automatic Fiesta is a SasS application for home health agencies to reduce the administrative cost of care coordination.
+description: Home Health Scheduler is a SasS application for home health agencies to automate intake and care coordination.
 category: project
 ---
 
-![Screenshot](https://user-images.githubusercontent.com/18684692/34129301-e241b440-e400-11e7-899d-eedf24991adc.png)
+Home Health Scheduler is a production SasS application for home health agencies and their staffing agency peers that automates the patient intake and care coordination processes to reduce administrative costs. 
 
-Automatic Fiesta - [Deployed on Heroku](https://vast-cliffs-69339.herokuapp.com/). 
+Go to Public Site ==> [www.homehealthscheduler.com](https://www.homehealthscheduler.com){:target="_blank"} 
 
-Automatic Fiesta is a SasS application for home health agencies and their staffing agency peers to reduce the cost of care coordination. 
+Watch the latest demo on YouTube!
 
-What started as a personal project for learning Rails has now evolved into an application preparing for a pilot with a home health staffing agency in Maryland, who is now funding further development on this project.
-
-Developing this application has challenged me to explore technologies beyond what I've learned through the curriculum with Bloc. I've gained a deeper understanding of Rails, learned how to make API calls to external services like Mapbox and Twilio, how to make rake tasks, and how to build an application for a real business case. 
-
-Want to learn more about this project? Ask me about it!
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lGbNWt52aVo/0.jpg)](http://www.youtube.com/watch?v=lGbNWt52aVo "Home Health Scheduler"){:target="_blank"}
